@@ -1,4 +1,4 @@
-# CMPUT 301 W25 - Team CtrlAltElite
+# Sentio - The Ultimate Mood tracking app
 
 ## Team Members
 
@@ -12,9 +12,12 @@
 | Dhruv Bhatt | dhruvchi | @DhruvB100     |
 
 
+### StoryBoard
+<img width="710" alt="Screenshot 2025-03-31 at 4 29 55 PM" src="https://github.com/user-attachments/assets/4005ced1-0af6-4f73-9273-676205ab7674" />
+
 ## Project Description
 
-Sentio is a user-friendly Android app designed to help friends and family stay connected through mood sharing. With detailed mood events that include photos, personal reflections, geolocation tags, and more, users can capture their emotional journey and share it with those who matter most. Whether you're having a great day or a tough one, you can log your mood with a photo, a short message, even your location—whatever helps tell your story. As your friends do the same, you’ll start to see each other’s ups and downs, creating a space where everyone feels seen, supported, and a little more connected.
+Sentio is a Android app designed to help friends and family stay connected through mood sharing. With detailed mood events that include photos, personal reflections, geolocation tags, and more users can capture their emotional journey and share it with those who matter most. Whether you're having a great day or a tough one, you can log your mood with a photo, a short message, even your location—whatever helps tell your story. As your friends do the same, you’ll start to see each other’s ups and downs, creating a space where everyone feels seen, supported, and a little more connected.
 
 
 
