@@ -1,5 +1,8 @@
 # Sentio - The Ultimate Mood tracking app
 
+### Preview of some screens from the app
+![Sention](./code/app/src/main/res/drawable/1.png)
+
 ## Team Members
 
 | Name        | CCID   | GitHub Username |
